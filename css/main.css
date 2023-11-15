@@ -69,6 +69,9 @@ h5 {
 /* ------------------------------------------------------------------------------
 	Global Styles
 -------------------------------------------------------------------------------*/
+strong {
+	font-size: 18px;
+}
 a {
 	color: #03A9F4;
 }
@@ -317,17 +320,23 @@ ul li {
 	transform: translateY(0) rotate(-45deg);
 }
 .site-info{
-	color: #383838;
-	background: #ffffff;
-	border-radius: 20px;
-	margin-top: 34px;
-	padding: 15px 0;
+	
+color: #383838;
+	
+background: #ffffff;
+	
+border-radius: 20px;
+	
+margin-top: 34px;
+	
+padding: 15px 0;
 }
 .site-info a{
 	color: #03a9f4;
 }
 .phoneInfo{
-	display: inline-block;
+	
+display: inline-block;
 }
 .timeInfo{
 	
